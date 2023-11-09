@@ -8,5 +8,6 @@ The two electrodes for the bipolar surface electromyography (EMG) recordings and
 which was fixed with an elastic bandage over the tibialis anterior mid-muscle belly, are depicted in red.
 
 
-## Passive torque fit figure
-
+## Passive torque comparison figure
+The brown line represents the passive torque during rotation from the plantarflexed (+35°) to the dorsiflexed position (-5°). The grey line is vice-versa.
+The blue asterisks represent the passive torque in a steady state relaxed condition (no muscle activity) at different crank-arm angles. The green dashed line represents the 3rd-grade polynomial fit through the asterisks. 
