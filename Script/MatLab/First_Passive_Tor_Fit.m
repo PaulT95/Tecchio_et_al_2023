@@ -18,7 +18,7 @@ for num_file = 1:length(files)
     Ang = Angle.values;
     Frequency = 1/Torque.interval;
     %% Filtering torque so then plotting in spike is easy
-    CutOff = 10;
+    CutOff = 12;
     Filt_order = 4;
 
     %correct order and cut off
