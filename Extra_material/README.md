@@ -13,5 +13,5 @@ The brown line represents the passive torque during rotation from the plantarfle
 The blue asterisks represent the passive torque in a steady state relaxed condition (no muscle activity) at different crank-arm angles. The green dashed line represents the 3rd-grade polynomial fit through the asterisks. 
 
 # B-Mode Ultrasound muscle fascicle tracked video
-- Example of a typical subject of tracked Tibilias anterior' superior compartment fascicle using the Lucas-Kanade-Tomasi optic-flow during Pre-activation level 0.
-- Example of a typical subject of tracked Tibilias anterior' superior compartment fascicle using the Lucas-Kanade-Tomasi optic-flow during Pre-activation level 95.
+- Example of a typical subject of tracked Tibilias anterior' superficial compartment fascicle using the Lucas-Kanade-Tomasi optic-flow during Pre-activation level 0.
+- Example of a typical subject of tracked Tibilias anterior' superficial compartment fascicle using the Lucas-Kanade-Tomasi optic-flow during Pre-activation level 95.
