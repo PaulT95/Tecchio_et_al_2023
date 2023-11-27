@@ -12,7 +12,7 @@ library(ggplot2)
 #close plots
 #dev.off()
 
-num_test = 3 #adjust p-value according to the number of tests 
+num_test = 3 #adjust p-value according to the number of tests i.e. Bonferroni Post Hoc correction
 
 #pick up file
 my_data <- read_excel(file.choose())
