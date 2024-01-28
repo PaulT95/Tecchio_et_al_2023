@@ -5,8 +5,6 @@ function [SDS,Normal] = percentage_Calc(Ref,Value)
 % check the number of input arguments
 narginchk(2,2);
 
-% check the time vector input for consistency
-
 
 %Normal percentage 
 Normal = (Ref - Value)/ Ref * 100;
