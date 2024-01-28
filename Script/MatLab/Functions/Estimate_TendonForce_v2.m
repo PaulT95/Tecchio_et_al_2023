@@ -29,7 +29,7 @@ M_Arm = polyval(p,AngSig); %it's in cm
 M_Force = (TorSig ./ (M_Arm/100) ) * ForceDistribution;
 
 %% Outputs
-%first output is the passive, second is the Net 
+%first output is muscle force, second is the moment arm 
 varargout{1} = M_Force;
 varargout{2} = M_Arm;
 end
