@@ -22,4 +22,4 @@ Individual (n = 12) crank arm angle values at the dorsiflexed position (-5°, DF
 ## Figure S4
 [Figure_S4.pdf](https://github.com/PaulT95/Tecchio_et_al_2023/files/14461244/Figure_S4.pdf)
 
-Tibialis anterior superficial compartment fascicle angle variations from rest to maximal voluntary contraction over a 40° range of motion across 12 participants. The gray dots represent single values of the participants’ minimum and maximum values during the conditions, and the black horizontal line represents the mean. Mean = 12.4°, range = 5.6° ¬¬- 22.8°.
+Tibialis anterior superficial compartment fascicle angle variations from rest to maximal voluntary contraction over a 40° range of motion across 12 participants. The gray dots represent single values of the participants’ minimum and maximum values during the conditions, and the black horizontal line represents the mean. Mean = 12.4°, range = 5.6° - 22.8°.
