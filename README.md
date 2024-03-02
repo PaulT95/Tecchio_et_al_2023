@@ -1,6 +1,6 @@
-# Tecchio_et_al_2023
+# Tecchio et al. - Eccentric exercise ≠ eccentric contraction 
 
-This repository includes material regarding the study performed. 
+This repository includes material regarding the study performed.
 
 👉 [Preprint bioRxiv](https://www.biorxiv.org/content/10.1101/2023.11.23.568422v1)
 
