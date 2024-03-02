@@ -1,5 +1,4 @@
 # Tecchio_et_al_2023
-![Repository Views](https://img.shields.io/github/search/PaulT95/Tecchio_et_al_2023/views?label=%F0%9F%91%80)
 
 This repository includes material regarding the study performed. 
 
