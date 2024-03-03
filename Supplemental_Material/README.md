@@ -3,7 +3,7 @@
 ## Figure S1
 ![Figure_S1](https://github.com/PaulT95/Tecchio_et_al_2023/assets/73119114/44fe7790-9e4d-4362-bfe0-df7cf642b846)
 
-Fascicle length adaptations following eccentric exercise of lower limb in vivo human muscles reported in the literature. The numbers next to the black dots represent the reference number of the study.  
+Fascicle length adaptations following eccentric exercise of in vivo human muscles reported in the literature. The numbers next to the black dots represent the reference number of the study.  
 
 ## Figure S2
 ![Figure_S2](https://github.com/PaulT95/Tecchio_et_al_2023/assets/73119114/9abf4f1a-3cc5-4e87-9c54-e1cc602a280d)
