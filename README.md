@@ -1,4 +1,4 @@
-# Tecchio et al. - Eccentric exercise ≠ eccentric contraction 
+# Tecchio et al., 2024 - Eccentric exercise ≠ eccentric contraction 
 
 This repository includes material regarding the study performed.
 
